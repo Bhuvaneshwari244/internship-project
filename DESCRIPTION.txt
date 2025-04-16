@@ -1,0 +1,29 @@
+We are looking for an enthusiastic and motivated Entry-Level Software Developer to join our growing team.
+
+Responsibilities:
+- Work on backend and frontend development tasks under guidance.
+- Assist in creating clean, efficient code using programming languages like Python and Java.
+- Collaborate with the team on academic-style and project-based implementations.
+- Participate in testing and debugging code modules.
+- Contribute to research-based tech solutions like machine learning and blockchain systems.
+
+Required Skills:
+- Python and Core Java
+- Basic understanding of DBMS and SQL
+- Familiarity with C programming
+- Knowledge of Machine Learning concepts
+- Good communication and teamwork skills
+- Willingness to learn and adapt
+- Academic project experience in technology (like Blockchain, ML)
+
+Preferred:
+- Knowledge of web development (HTML/CSS/JavaScript)
+- Familiarity with version control (Git)
+- Exposure to Linux or basic OS-level operations
+- Participation in workshops or technical events
+
+Education:
+- Bachelor’s degree in Computer Science or related field (completed or pursuing)
+
+Location: Hybrid / On-site  
+Experience: 0–1 years or fresher

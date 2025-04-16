@@ -1,0 +1,21 @@
+We are seeking a talented Full Stack Developer to join our team.
+
+Responsibilities:
+- Design and develop scalable web applications using modern frontend and backend technologies.
+- Build RESTful APIs and integrate with third-party services.
+- Collaborate with UI/UX designers and backend developers to deliver seamless user experiences.
+- Write clean, maintainable code and conduct code reviews.
+
+Required Skills:
+- HTML, CSS, JavaScript
+- React.js or Angular
+- Node.js, Express.js
+- Python or Java (preferred for backend logic)
+- MongoDB, MySQL or PostgreSQL
+- RESTful API development
+- Git and version control
+- Strong communication and teamwork
+
+Preferred:
+- Experience with cloud services like AWS or Azure
+- Familiarity with CI/CD pipelines and Docker
